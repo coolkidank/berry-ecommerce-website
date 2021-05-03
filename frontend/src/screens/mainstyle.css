@@ -52,3 +52,9 @@
     height: 100%;   
 
 }
+
+@media screen {
+    body{
+        background-image:url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2F7e%2F19%2Ffa7e19181308c2e258cd9bea6d583126.jpg&f=1&nofb=1") ;
+    }
+}
