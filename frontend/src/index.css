@@ -127,6 +127,11 @@ a.brand {
 }
 
 
+@media screen and (max-width:1050px){
+ .row{
+   padding-bottom: 15%;
+ }
+}
 
 .row.center {
   justify-content: center;

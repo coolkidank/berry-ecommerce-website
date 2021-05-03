@@ -1,6 +1,6 @@
 import React from "react";
 import "./mainstyle.css";
-import g1 from "./g1.jpg";
+import g1 from "./ww.jpeg";
 
 function Main () {
     return(

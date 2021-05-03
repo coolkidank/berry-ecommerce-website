@@ -17,8 +17,11 @@
 
 @media screen and (max-width:1050px){
     .banner img{
-        height: max-content;
-       
+        display: block;
+        height: 100vh;
+        width: 100%;
+        object-fit: scale-down;
+        
     }
 }
 .buttn{
@@ -59,9 +62,9 @@
 
 }
 
-@media screen and (max-width:1050px){
+/* @media screen and (max-width:1050px){
     .containe{
        height: 100%;
         width: max-content;
     }
-}
+} */
